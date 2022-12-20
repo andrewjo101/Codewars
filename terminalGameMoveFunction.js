@@ -5,4 +5,4 @@ Create a function for the terminal game that takes the current position of the h
 
 function move (position, roll) {
     return position + roll * 2 
-  }
+};
