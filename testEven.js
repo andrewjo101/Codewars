@@ -4,6 +4,6 @@
     Numbers may be positive or negative, integers or floats.
     Floats with decimal part non equal to zero are considered UNeven for this kata. **/
 
-    function testEven(n) {
-        return Math.abs(n) % 2 === 0;
-    } 
+function testEven(n) {
+    return Math.abs(n) % 2 === 0;
+}; 
